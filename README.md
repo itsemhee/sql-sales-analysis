@@ -26,7 +26,6 @@ It demonstrates how structured queries and analytical methods can reveal busines
    ```bash
    git clone https://github.com/itsemhee/sql-sales-analysis.git
    cd sql-sales-analysis
-  ```
 
 2. Install dependencies
 ```bash
@@ -44,7 +43,7 @@ jupyter notebook
 ```
 Run the analysis in Chinook_DB.ipynb
 
-📂 Project Structure
+## 📂 Project Structure
 📦 sql-sales-analysis  
  ┣ 📜 README.md  
  ┣ 📜 requirements.txt  
